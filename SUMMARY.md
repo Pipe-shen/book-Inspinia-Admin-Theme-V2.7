@@ -1,7 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+## 前言
+
+* [关于说明书](README.md)
+* [备注](chapter1.md)
 
 ## 起步
 
